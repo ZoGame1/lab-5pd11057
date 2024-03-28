@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Map
+  - BackGround
+  - Square
+  - Circle
+  - Pinwheel
+  - Box
+  - MapEdge
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Map
+    uniqueID: 4058459869
+    locked: 0
+  - name: BackGround
+    uniqueID: 3162050441
+    locked: 0
+  - name: Square
+    uniqueID: 1852771319
+    locked: 0
+  - name: Circle
+    uniqueID: 1618811873
+    locked: 0
+  - name: Pinwheel
+    uniqueID: 1601272021
+    locked: 0
+  - name: Box
+    uniqueID: 3587163695
+    locked: 0
